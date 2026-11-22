@@ -1,9 +1,9 @@
 File thông tin cập nhật (đã ký) - tạo ngày 2026-11-22
 
-tlt: bản 1.5 (2026-11-21), 67.1 MB
-  SHA-256: ff8278610f42d08da3ced752ffefddd347850ac49d7aa3c511481132d1464d9b
-  tải từ: https://drive.usercontent.google.com/download?id=1JdozrvZdnsQYp5xqzCM3Cmlw0MhGE1Sv&export=download&confirm=t
-  ghi chú: Cho nhập mực nước phía trước tường cao hơn mặt đất (Dw âm), tính áp lực nước hai phía và đẩy nổi | Tính ổn định tổng thể khi có nước tự do phía trước, áp lực nước động khi động đất theo TCVN 9386-5:2025 Phụ lục E | Đổi trích dẫn tiêu chuẩn động đất: TCVN 9386:2012 sang TCVN 9386-1:2025 và TCVN 9386-5:2025
+tlt: bản 1.6 (2026-11-22), 67.1 MB
+  SHA-256: fb4b1969e5ab0c55c26e4d9d897737e00805bfa0e670763130a849963fcf688b
+  tải từ: https://drive.usercontent.google.com/download?id=1fb1A_lB0OqEnt3mFiUz4d4Y7u-P0oIpp&export=download&confirm=t
+  ghi chú: Số liệu mẫu: bộ số liệu mặc định (nút Số liệu mặc định) nay qua hết các hạng mục kiểm toán. | Lún, chênh lún, chuyển vị ngang đỉnh tường (mục 3.6): khi chọn Không xét, nay có thêm dòng cảnh báo lúc xuất Excel/PDF; sửa lỗi công trình lập từ bản cũ mở lại có thể bị hiểu nhầm là "Xét" dù đã lưu "Không xét" - nay nhận đúng theo lựa chọn đã lưu.
 
 cong: bản 1.5 (2026-11-22), 67.2 MB
   SHA-256: 16947ee093bb5afc0895563bacf3b32032329eeaf15eacf8f65ebe4052923bc9

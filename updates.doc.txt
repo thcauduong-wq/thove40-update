@@ -5,7 +5,7 @@ tlt: bản 1.6 (2026-11-22), 67.1 MB
   tải từ: https://drive.usercontent.google.com/download?id=1fb1A_lB0OqEnt3mFiUz4d4Y7u-P0oIpp&export=download&confirm=t
   ghi chú: Số liệu mẫu: bộ số liệu mặc định (nút Số liệu mặc định) nay qua hết các hạng mục kiểm toán. | Lún, chênh lún, chuyển vị ngang đỉnh tường (mục 3.6): khi chọn Không xét, nay có thêm dòng cảnh báo lúc xuất Excel/PDF; sửa lỗi công trình lập từ bản cũ mở lại có thể bị hiểu nhầm là "Xét" dù đã lưu "Không xét" - nay nhận đúng theo lựa chọn đã lưu.
 
-cong: bản 1.5 (2026-11-22), 67.2 MB
-  SHA-256: 16947ee093bb5afc0895563bacf3b32032329eeaf15eacf8f65ebe4052923bc9
-  tải từ: https://drive.usercontent.google.com/download?id=1O59aCKyYBkTNlJbqFsj5XAZkplLFRri-&export=download&confirm=t
-  ghi chú: Cống ngắn hoặc chéo nhiều - đầu cống chưa ra khỏi vai đường: khi chọn đầu cống "kéo dài qua mái taluy" nhưng chiều dài cống Lc chưa đủ để đầu cống thực sự ra khỏi vai đường, bảng tính trước đây vẫn tính tiếp theo hình học không đúng; bản 1.5 nêu rõ "số liệu mâu thuẫn" kèm chiều dài Lc cần có, để kiểm tra lại chiều dài cống, bề rộng mặt đường/lề ở mục 2, hoặc đổi sang đầu cống có tường chắn đất. | Mặt cắt tính toán khi mặt cắt A-A vượt ra ngoài cống: tải trọng không đối xứng do đặt chéo được kiểm theo mặt cắt vuông góc tim cống A-A; khi cống ngắn/chéo nhiều khiến mặt cắt A-A (lấy tại mép ngoài phía cao, nơi vào vai đường) không nằm trọn trong chiều dài cống, bảng tính nay tự chuyển mặt cắt tính toán về đúng đầu cống và tính lại tải trọng (ΔEV, mômen, lực cắt) theo vị trí đó, có thêm khung diễn giải riêng khi áp dụng; mục 6.4 (bố trí cốt thép đoạn đầu cống chéo) cập nhật theo.
+cong: bản 1.6 (2026-11-22), 67.2 MB
+  SHA-256: 251c743f0f5367b9c10f91e11f6e8824f24ebb6ead1b43206711ad189745aba2
+  tải từ: https://drive.usercontent.google.com/download?id=1YOzsPv87FT5WPhdv8SBFyTAHH3tUqmwl&export=download&confirm=t
+  ghi chú: không có thay đổi tính toán riêng của cống trong lần này; đóng gói lại theo trang nguồn mới (từ 22/11/2026, cống có trang nguồn riêng, không dùng chung với tường chắn trọng lực nữa) chỉ mang theo 1 sửa lỗi xuất PDF dùng chung (ngắt dòng khi xuất, không phải lỗi số liệu). Kết quả tính không đổi so với bản 1.5.

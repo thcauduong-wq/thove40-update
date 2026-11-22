@@ -1,0 +1,11 @@
+File thông tin cập nhật (đã ký) - tạo ngày 2026-11-22
+
+tlt: bản 1.5 (2026-11-21), 67.1 MB
+  SHA-256: ff8278610f42d08da3ced752ffefddd347850ac49d7aa3c511481132d1464d9b
+  tải từ: https://drive.usercontent.google.com/download?id=1JdozrvZdnsQYp5xqzCM3Cmlw0MhGE1Sv&export=download&confirm=t
+  ghi chú: Cho nhập mực nước phía trước tường cao hơn mặt đất (Dw âm), tính áp lực nước hai phía và đẩy nổi | Tính ổn định tổng thể khi có nước tự do phía trước, áp lực nước động khi động đất theo TCVN 9386-5:2025 Phụ lục E | Đổi trích dẫn tiêu chuẩn động đất: TCVN 9386:2012 sang TCVN 9386-1:2025 và TCVN 9386-5:2025
+
+cong: bản 1.5 (2026-11-22), 67.2 MB
+  SHA-256: 16947ee093bb5afc0895563bacf3b32032329eeaf15eacf8f65ebe4052923bc9
+  tải từ: https://drive.usercontent.google.com/download?id=1O59aCKyYBkTNlJbqFsj5XAZkplLFRri-&export=download&confirm=t
+  ghi chú: Cống ngắn hoặc chéo nhiều - đầu cống chưa ra khỏi vai đường: khi chọn đầu cống "kéo dài qua mái taluy" nhưng chiều dài cống Lc chưa đủ để đầu cống thực sự ra khỏi vai đường, bảng tính trước đây vẫn tính tiếp theo hình học không đúng; bản 1.5 nêu rõ "số liệu mâu thuẫn" kèm chiều dài Lc cần có, để kiểm tra lại chiều dài cống, bề rộng mặt đường/lề ở mục 2, hoặc đổi sang đầu cống có tường chắn đất. | Mặt cắt tính toán khi mặt cắt A-A vượt ra ngoài cống: tải trọng không đối xứng do đặt chéo được kiểm theo mặt cắt vuông góc tim cống A-A; khi cống ngắn/chéo nhiều khiến mặt cắt A-A (lấy tại mép ngoài phía cao, nơi vào vai đường) không nằm trọn trong chiều dài cống, bảng tính nay tự chuyển mặt cắt tính toán về đúng đầu cống và tính lại tải trọng (ΔEV, mômen, lực cắt) theo vị trí đó, có thêm khung diễn giải riêng khi áp dụng; mục 6.4 (bố trí cốt thép đoạn đầu cống chéo) cập nhật theo.

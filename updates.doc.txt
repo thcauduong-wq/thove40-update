@@ -1,4 +1,4 @@
-File thông tin cập nhật (đã ký) - tạo ngày 2026-11-22
+File thông tin cập nhật (đã ký) - tạo ngày 2026-11-25
 
 tlt: bản 1.6 (2026-11-22), 67.1 MB
   SHA-256: fb4b1969e5ab0c55c26e4d9d897737e00805bfa0e670763130a849963fcf688b

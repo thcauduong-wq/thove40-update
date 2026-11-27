@@ -1,4 +1,4 @@
-File thông tin cập nhật (đã ký) - tạo ngày 2026-11-26
+File thông tin cập nhật (đã ký) - tạo ngày 2026-11-27
 
 tlt: bản 1.6 (2026-11-22), 67.1 MB
   SHA-256: fb4b1969e5ab0c55c26e4d9d897737e00805bfa0e670763130a849963fcf688b
@@ -10,10 +10,10 @@ cong: bản 1.6 (2026-11-22), 67.2 MB
   tải từ: https://drive.usercontent.google.com/download?id=1YOzsPv87FT5WPhdv8SBFyTAHH3tUqmwl&export=download&confirm=t
   ghi chú: không có thay đổi tính toán riêng của cống trong lần này; đóng gói lại theo trang nguồn mới (từ 22/11/2026, cống có trang nguồn riêng, không dùng chung với tường chắn trọng lực nữa) chỉ mang theo 1 sửa lỗi xuất PDF dùng chung (ngắt dòng khi xuất, không phải lỗi số liệu). Kết quả tính không đổi so với bản 1.5.
 
-tl: bản 1.3.5 (2026-11-26), 65.9 MB
-  SHA-256: 79ee6e0ddfdab38666e906fc6bba398f08f5890b5d66f4f41574a816be76d562
-  tải từ: https://drive.usercontent.google.com/download?id=1yfZHhdw9nSWUyE6tLl4vL0PXcWJOtHDW&export=download&confirm=t
-  ghi chú: Mẫu T05 - cốt thép thân tường và bệ móng (mục Cốt thép thân, bệ, tab Bản vẽ): thêm ô chọn Bật / Tắt và bảng tự nhập từng số hiệu thép (Φ, bước, hình dạng, cách bố trí) theo đúng bản vẽ mẫu kè (thép 1 mặt trước, 2 mặt sau, chữ U 6/7 ở bệ, dọc 5, giằng ngang thân 4, đai đứng bệ 3). Bật lên thì kiểm toán thêm uốn, cắt, nứt, ma sát cắt mối nối chân thân (kể cả neo thép 1, 2 vào bệ), mũi, gót bệ và cốt thép chống co ngót - như mẫu T01 (TCVN 11823-5, Điều 7.3, 8.3, 8.4, 10.8; chiều dài neo theo Điều 8.4.1). Công trình T05 lập từ bản trước 1.3.5 mở lại ở trạng thái TẮT để giữ nguyên bản vẽ và kết quả cũ; bật tay khi cần bố trí và kiểm toán thêm. Dự án T05 mới (chọn T05 lần đầu) có sẵn một bộ số liệu mặc định theo đúng hình minh hoạ kích thước, kèm cốt thép tự chọn đạt ngay khi tạo. | Ống thoát nước sau tường: thêm cách định vị hàng ống thấp nhất theo cao độ hoặc theo chiều cao từ đáy bản đáy lên (ngoài cách cũ theo chiều cao trên mặt bản đáy, vẫn là mặc định - kết quả không đổi so với bản 1.3), tiện khi tuyến tường mỗi khối một cao độ đáy móng khác nhau. Thêm khung cảnh báo trên màn hình (không in) khi hàng ống thấp nhất thấp hơn mặt đất trước tường, trích TCVN 11823-11, Điều 6.6.
+tl: bản 1.3.6 (2026-11-27), 65.9 MB
+  SHA-256: da3829f13dbb549b819ab77454f80f1c2887d1278654a0086dbd49c62af1c886
+  tải từ: https://drive.usercontent.google.com/download?id=1NGLzAtzDci9mHePFXl_2S2zBOCjaHSNy&export=download&confirm=t
+  ghi chú: Xuất Excel - liên kết công thức: file Excel xuất ra nay có thêm hình vẽ minh họa và công thức tính (giống bảng tính trên màn hình), nhiều ô kèm công thức Excel sống (bấm vào ô thấy ngay cách tính ra số đó, đổi số liệu Excel tự tính lại) khi công thức tính đúng ra số đã có trong bảng tính; ô nào công thức mẫu không khớp thì vẫn giữ số như bảng tính, không bao giờ ghi công thức cho ra số khác. Bảng tính trên màn hình, bản Word, bản PDF không đổi. | Rà soát lại, sửa đúng 2 chỗ hiển thị một con số (không đổi kết luận Đạt, Không đạt): chiều dày "dc" ở mục kiểm tra nứt nay lấy đúng mặt chịu kéo của TTGH Sử dụng (trước lấy nhầm theo mặt TTGH Cường độ, chỉ lệch khi hai mặt trái dấu); chiều cao mặt cắt mũi, gót bệ (mẫu T01, T02, T04) nay lấy đúng theo từng vị trí khi bản đáy vát không đều (trước hiển thị chung một số).
 
 nendatyeu: bản 1.2 (2026-11-22), 66.2 MB
   SHA-256: 9bfa6b2ef425954e1e04a870d2284916f9c3af5580b93dddd17f6d42f9a9d7f9
